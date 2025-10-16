@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+ background-color: rgba(245, 245, 245, 0.897);
+ padding: 50px;
+ text-align: center;
+ justify-content: center;
+ width: 50%;
+ margin: 15px auto;
+}
+
+.title{
+    justify-content: center;
+    text-align: center;
+}
+
+.btn{
+    padding: 5px;
+    background-color: #ffc9f1;
+    color: black;
+    border: none;
+    border-radius: 30px;
+    font-weight: 800;
+}
